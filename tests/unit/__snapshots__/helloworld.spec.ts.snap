@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HelloWorld should match snapshot - info 1`] = `
+<h1>
+  some msg
+</h1>
+`;
+
+exports[`HelloWorld should match snapshot 1`] = `
+<h1>
+  some msg
+</h1>
+`;
